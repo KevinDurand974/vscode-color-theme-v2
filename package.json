@@ -1,0 +1,21 @@
+{
+  "name": "sfx-color-theme-v2",
+  "displayName": "sfx-color-theme-v2",
+  "description": "Color theme v2",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SFX Theme 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SFX Theme 2-color-theme.json"
+      }
+    ]
+  }
+}
